@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 3.12)
 
-cmake_policy(SET CMP0054 OLD)
+cmake_policy(SET CMP0054 NEW)
 cmake_policy(SET CMP0042 NEW)
 set(CMAKE_MACOSX_RPATH 1)
 
